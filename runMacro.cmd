@@ -1,0 +1,2 @@
+python runMacro.py
+pause
