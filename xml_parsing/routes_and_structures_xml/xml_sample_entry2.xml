@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ChangeSum>
+
+
+    <Add>
+
+
+        <ItemRev uid="0FKAS2GdVdWWHBAAAAAAAAAAAAA" rev_id="A" name="90 ATV WHEEL HUB CAP" item_id="3308-064 GEOREP" is_tc_only="false" is_srv_only="false" comments="">
+
+
+            <Plant isService="false" isObs="false" id="6000">
+
+                <PlantSetup>6000</PlantSetup>
+
+                <ProcType>F</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>TSVW</ItemSequence>
+
+                <LineSequence>MG069</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+
+            <Plant isService="true" isObs="false" id="6001">
+
+                <PlantSetup>6001</PlantSetup>
+
+                <ProcType>F</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>PACC</ItemSequence>
+
+                <LineSequence>MG069</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+        </ItemRev>
+
+
+        <ItemRev uid="05MAS2GdVdWWHBAAAAAAAAAAAAA" rev_id="A" name="300 ATV WHEEL HUB CAP" item_id="3308-065 GEOREP" is_tc_only="false" is_srv_only="false" comments="">
+
+
+            <Plant isService="false" isObs="false" id="6002">
+
+                <PlantSetup>6000</PlantSetup>
+
+                <ProcType>F</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>TSVW</ItemSequence>
+
+                <LineSequence>MG069</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+
+            <Plant isService="true" isObs="false" id="6003">
+
+                <PlantSetup>6001</PlantSetup>
+
+                <ProcType>F</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>PACC</ItemSequence>
+
+                <LineSequence>MG069</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+        </ItemRev>
+
+    </Add>
+
+    <Change/>
+
+    <Obsolete/>
+
+    <Error/>
+
+</ChangeSum>

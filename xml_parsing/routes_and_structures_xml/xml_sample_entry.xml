@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ChangeSum>
+
+
+    <Add>
+
+
+        <ItemRev uid="DuJAiCMLVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BRKT,TUBE,BG" item_id="10002738" is_tc_only="false" is_srv_only="false" comments="">
+
+
+            <Plant isService="false" isObs="false" id="6002">
+
+                <PlantSetup>6000</PlantSetup>
+
+                <ProcType>E-Manufactured</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>CWH1</ItemSequence>
+
+                <LineSequence>MG086</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+            <ItemChild uid="SGJAxhMtVdWWHBAAAAAAAAAAAAA" name="BN-SHEET STEEL,HSLA,A1011,7GA" item_id="649272" comments="Materials/Finish" type="Material"/>
+
+            <ItemChild uid="SGJAxhMtVdWWHBAAAAAAAAAAAAB" name="BN-SHEET STEEL,HSLA,A1011,7GA" item_id="649272" comments="Materials/Finish" type="Material"/>
+
+            <ItemChild uid="SGJAxhMtVdWWHBAAAAAAAAAAAAC" name="BN-SHEET STEEL,HSLA,A1011,7GA" item_id="649272" comments="Materials/Finish" type="Material"/>
+
+        </ItemRev>
+
+
+        <ItemRev uid="EdMAiCMLVdWWHBAAAAAAAAAAAAA" rev_id="A" name="PLATE,FRAME,FRNT,CNPY" item_id="10002763" is_tc_only="false" is_srv_only="false" comments="">
+
+
+            <Plant isService="false" isObs="false" id="6000">
+
+                <PlantSetup>6000</PlantSetup>
+
+                <ProcType>E</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>CWH1</ItemSequence>
+
+                <LineSequence>MG086</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+            <ItemChild uid="AFABs2cwVdWWHBAAAAAAAAAAAAA" name="SHEET STEEL 7 GA. H.R.S. BN" item_id="10875GXX" comments="Materials/Finish" type="Material"/>
+
+        </ItemRev>
+
+    </Add>
+
+
+    <Change>
+
+
+        <ItemRev uid="XfOAiCsnVdWWHBAAAAAAAAAAAAA" rev_id="C" name="BRUSHGUARD-MOD" item_id="699711" is_tc_only="false" is_srv_only="false" comments="">
+
+
+            <Plant isService="false" isObs="false" id="6000">
+
+                <PlantSetup>6000</PlantSetup>
+
+                <ProcType>E50</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>TRK1</ItemSequence>
+
+                <LineSequence>MG086</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+            <ItemRevChild uid="xLBJO60DVdWWHBAAAAAAAAAAAAA" rev_id="A" name="NUT,PLS,LK,M10-1.5" item_id="600525" qty_old="4" qty="6" action="Changed"/>
+
+            <ItemRevChild uid="oLEACck5VdWWHBAAAAAAAAAAAAA" rev_id="B" name="BOLT,HXFL,M10-1.5X25" item_id="603799" qty_old="4" qty="6" action="Changed"/>
+
+        </ItemRev>
+
+
+        <ItemRev uid="X5GAiCdGVdWWHBAAAAAAAAAAAAA" rev_id="B" name="BRUSHGUARD-WLD" item_id="699734" is_tc_only="false" is_srv_only="false" comments="">
+
+
+            <Plant isService="true" isObs="false" id="6001">
+
+                <PlantSetup>6001</PlantSetup>
+
+                <ProcType>F40</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>RCV1</ItemSequence>
+
+                <LineSequence>MG086</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+
+            <Plant isService="false" isObs="false" id="6000">
+
+                <PlantSetup>6000</PlantSetup>
+
+                <ProcType>E</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>TSVW</ItemSequence>
+
+                <LineSequence>MG086</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+            <ItemChild uid="ANHB8GJvVdWWHBAAAAAAAAAAAAA" name="POWDER COATING, EPOXY PRIMER" item_id="71423G01" comments="Materials/Finish" type="Material"/>
+
+            <ItemChild uid="xoJAwR4kVdWWHBAAAAAAAAAAAAA" name="POWDER PAINT, BLACK" item_id="70781G20" comments="Materials/Finish" type="Material"/>
+
+
+            <ItemRevChild uid="DuJAiCMLVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BRKT,TUBE,BG" item_id="10002738" qty="2" action="Replace">
+
+                <ItemRevRem uid="LAGASSj6VdWWHBAAAAAAAAAAAAA" rev_id="A" name="PLATE,MNT,BG" item_id="699577" qty="2" disposition=""/>
+
+            </ItemRevChild>
+
+            <ItemRevChild uid="5sFASqUbVdWWHBAAAAAAAAAAAAA" rev_id="B" name="BRKT,MNT,BG" item_id="699680" qty="2" action="Removed" disposition="Engineering Disposition"/>
+
+        </ItemRev>
+
+
+        <ItemRev uid="GTBAiCdGVdWWHBAAAAAAAAAAAAA" rev_id="B" name="FRAME,CANOPY,FRNT-WLD" item_id="699820" is_tc_only="false" is_srv_only="false" comments="">
+
+
+            <Plant isService="true" isObs="false" id="6001">
+
+                <PlantSetup>6001</PlantSetup>
+
+                <ProcType>F40</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>RCV1</ItemSequence>
+
+                <LineSequence>MG086</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+
+            <Plant isService="false" isObs="false" id="6000">
+
+                <PlantSetup>6000</PlantSetup>
+
+                <ProcType>E</ProcType>
+
+                <ItemCategory>NORM</ItemCategory>
+
+                <ItemSequence>PNT2</ItemSequence>
+
+                <LineSequence>MG086</LineSequence>
+
+                <UOM>EA</UOM>
+
+                <Commodity>Mechanical</Commodity>
+
+            </Plant>
+
+            <ItemChild uid="ANHB8GJvVdWWHBAAAAAAAAAAAAA" name="POWDER COATING, EPOXY PRIMER" item_id="71423G01" comments="Materials/Finish" type="Material"/>
+
+            <ItemChild uid="xoJAwR4kVdWWHBAAAAAAAAAAAAA" name="POWDER PAINT, BLACK" item_id="70781G20" comments="Materials/Finish" type="Material"/>
+
+
+            <ItemRevChild uid="EdMAiCMLVdWWHBAAAAAAAAAAAAA" rev_id="A" name="PLATE,FRAME,FRNT,CNPY" item_id="10002763" qty="2" action="Replace">
+
+                <ItemRevRem uid="SLMASqS_VdWWHBAAAAAAAAAAAAA" rev_id="B" name="PLATE,FRAME,FRNT" item_id="699768" qty="2" disposition=""/>
+
+            </ItemRevChild>
+
+        </ItemRev>
+
+    </Change>
+
+    <Obsolete/>
+
+    <Techpub/>
+
+    <Error/>
+
+</ChangeSum>

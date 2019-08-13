@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<ChangeSum>
+
+
+-<Add>
+
+
+-<ItemRev uid="zLFASW1pVdWWHBAAAAAAAAAAAAA" rev_id="A" name="HOLE & PLUG WORD&WORD 40" 1.25"" item_id="20271G12" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F40</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware</Commodity>
+
+</Plant>
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware</Commodity>
+
+</Plant>
+
+<ItemChild uid="AFABs_fIVdWWHBAAAAAAAAAAAAA" name="HOLE & PLUG" item_id="20271GXX" comments="ON CHART DWG" type="Chart"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="fzIASWIgVdWWHBAAAAAAAAAAAAA" rev_id="A" name="GAUGE PLATE,12V,WINCH READY-ASSY" item_id="666085G11" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="ktCAi06wVdWWHBAAAAAAAAAAAAA" name="CHART-GAUGE PLATE-ASSY" item_id="666085" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="TyIAQJP5VdWWHBAAAAAAAAAAAAA" rev_id="A" name="METER,FUEL,SOC" item_id="612314" qty="1" action="Added"/>
+
+<ItemRevChild uid="FcDAidohVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SWITCH,2POS,HORN" item_id="651897G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="xWMh59LMVdWWHBAAAAAAAAAAAAA" rev_id="C" name="OUTLET, POWER (12V)" item_id="71078G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="wKLAg9oAVdWWHBAAAAAAAAAAAAA" rev_id="A" name="PLUG,PANEL,CARLING SWITCH" item_id="627035" qty="3" action="Added"/>
+
+<ItemRevChild uid="DAAAw26BVdWWHBAAAAAAAAAAAAA" rev_id="B" name="RIVET, 3/16 DIA" item_id="71055G01" qty="2" action="Added"/>
+
+<ItemRevChild uid="imAAw26BVdWWHBAAAAAAAAAAAAA" rev_id="B" name="RIVET, DRIVE BLACK PLASTIC" item_id="33623G02" qty="2" action="Added"/>
+
+<ItemRevChild uid="zLFASW1pVdWWHBAAAAAAAAAAAAA" rev_id="A" name="HOLE PLUG,1.187" item_id="20271G12" qty="1" action="Added"/>
+
+<ItemRevChild uid="yfCACyJlVdWWHBAAAAAAAAAAAAA" rev_id="A" name="PANEL,GAUGE,KEY+FUEL/SOC+12V,WINCH" item_id="652987G04" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="PDBASWIgVdWWHBAAAAAAAAAAAAA" rev_id="A" name="GAUGE PLATE,12V,WINCH READY-MOD" item_id="666267G11" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="FYDAi4nLVdWWHBAAAAAAAAAAAAA" name="CHART-GAUGE PLATE-MOD" item_id="666267" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="TmPARGPJVdWWHBAAAAAAAAAAAAA" rev_id="-" name="SCRW, M6X2.65X25, REMFORM, PAN HD, TORX" item_id="649803" qty="2" action="Added"/>
+
+<ItemRevChild uid="fzIASWIgVdWWHBAAAAAAAAAAAAA" rev_id="A" name="GAUGE PLATE,12V,WINCH READY-ASSY" item_id="666085G11" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="heJASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A TRACKER,OX 400 G-EFI" item_id="698594G01" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>FA004</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="ywFASwSwVdWWHBAAAAAAAAAAAAA" name="MWB TRUCK KAWASAKI EFI GAS PLATFORM" item_id="660728" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="CsAASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A,TRACKER,OX 400 G-EFI,ROUTE V" item_id="698594RV" qty="1" action="Added"/>
+
+<ItemRevChild uid="CgNASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A,TRACKER,OX 400 G-EFI,ROUTE O" item_id="698594RO" qty="1" action="Added"/>
+
+<ItemRevChild uid="CQHASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A, TRACKER,OX 400 G-EFI,ROUTE 1" item_id="698594R1" qty="1" action="Added"/>
+
+<ItemRevChild uid="CYKASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A,TRACKER,OX 400 G-EFI,ROUTE A" item_id="698594RA" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="jNIASWJGVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SERIAL PLATE,TRKR,OX 400,EFI-MOD" item_id="698594G99" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="hNCAS1bcVdWWHBAAAAAAAAAAAAA" name="CHART-SERIAL/PIN,LOC,UTILITY/OFF RD(AGS)" item_id="679982" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="hAAAipaiVdWWHBAAAAAAAAAAAAA" rev_id="A" name="LABEL, COMMON SERIAL & CERT" item_id="674396" qty="1" action="Added"/>
+
+<ItemRevChild uid="25AAiAO1VdWWHBAAAAAAAAAAAAA" rev_id="-" name="SERIAL LABEL INK" item_id="660397" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="CQHASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A, TRACKER,OX 400 G-EFI,ROUTE 1" item_id="698594R1" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>FA004</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="ywFASwSwVdWWHBAAAAAAAAAAAAA" name="MWB TRUCK KAWASAKI EFI GAS PLATFORM" item_id="660728" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="7oGASS4FVdWWHBAAAAAAAAAAAAA" rev_id="B" name="SIDE PANEL,MWB,GAS-MOD" item_id="652623G02" qty="1" action="Added"/>
+
+<ItemRevChild uid="VbKASWXvVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BED,PLASTIC,W/O BRAND,MANUAL-MOD" item_id="699837" qty="1" action="Added"/>
+
+<ItemRevChild uid="DxFAi5pOVdWWHBAAAAAAAAAAAAA" rev_id="C" name="PIN, PLATE AND LABEL-MOD" item_id="632242" qty="1" action="Added"/>
+
+<ItemRevChild uid="6tMACQtRVdWWHBAAAAAAAAAAAAA" rev_id="A" name="INSTALLATION, SPLASH PANEL" item_id="74939G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="PDBASWIgVdWWHBAAAAAAAAAAAAA" rev_id="A" name="GAUGE PLATE,12V,WINCH READY-MOD" item_id="666267G11" qty="1" action="Added"/>
+
+<ItemRevChild uid="jNIASWJGVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SERIAL PLATE,TRKR,OX 400,EFI-MOD" item_id="698594G99" qty="1" action="Added"/>
+
+<ItemRevChild uid="pBFAxOqFVdWWHBAAAAAAAAAAAAA" rev_id="A" name="STEERING COLUMN, PREMIUM-MOD" item_id="70757G09" qty="1" action="Added"/>
+
+<ItemRevChild uid="mfPAi4EkVdWWHBAAAAAAAAAAAAA" rev_id="C" name="REAR FENDER/VALENCE,W/LTS-MOD" item_id="651012G02" qty="1" action="Added"/>
+
+<ItemRevChild uid="RwFAy0l7VdWWHBAAAAAAAAAAAAA" rev_id="A" name="BATT,SIDE POST,HD-MOD" item_id="646582" qty="1" action="Added"/>
+
+<ItemRevChild uid="yYPAAydDVdWWHBAAAAAAAAAAAAA" rev_id="-" name="SPEED,GAS 16.5 +/- .5 MPH" item_id="635246G165" qty="1" action="Added"/>
+
+<ItemRevChild uid="BaIACeZmVdWWHBAAAAAAAAAAAAA" rev_id="E" name="ELEC SYS,MWB TRUCK,EFI-MOD" item_id="660443" qty="1" action="Added"/>
+
+<ItemRevChild uid="U2FAi5toVdWWHBAAAAAAAAAAAAA" rev_id="C" name="BRAKE,2WB,GAS,W/LIGHTS-MOD" item_id="651517G06" qty="1" action="Added"/>
+
+<ItemRevChild uid="VROACdHMVdWWHBAAAAAAAAAAAAA" rev_id="A" name="HORN,UTILITY,W/O SWITCH-MOD" item_id="672632" qty="1" action="Added"/>
+
+<ItemRevChild uid="DILAyYmWVdWWHBAAAAAAAAAAAAA" rev_id="F" name="PANEL,INSTRUMENT-MOD" item_id="650892" qty="1" action="Added"/>
+
+<ItemRevChild uid="1ZDAywq8VdWWHBAAAAAAAAAAAAA" rev_id="A" name="PWRT,GAS,EFI,TRK,STD,HIGH-MOD" item_id="661635" qty="1" action="Added"/>
+
+<ItemRevChild uid="onGACyxJVdWWHBAAAAAAAAAAAAA" rev_id="C" name="FRT SUSP,LIFTED,MWB UTILITY-MOD" item_id="677428" qty="1" action="Added"/>
+
+<ItemRevChild uid="RfAASWJGVdWWHBAAAAAAAAAAAAA" rev_id="A" name="LIT,TRACKER OX 400,KEFI-MOD" item_id="699852" qty="1" action="Added"/>
+
+<ItemRevChild uid="haLASNn0VdWWHBAAAAAAAAAAAAA" rev_id="A" name="ROCKER PANEL,FENDER FLARE,LARGE-MOD" item_id="651888G03" qty="1" action="Added"/>
+
+<ItemRevChild uid="siIASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHEEL,TRACKER-MOD" item_id="699802" qty="1" action="Added"/>
+
+<ItemRevChild uid="UQOASYFIVdWWHBAAAAAAAAAAAAA" rev_id="B" name="SPLASH PAN INSTALLATION (GAS)" item_id="70351G02" qty="1" action="Added"/>
+
+<ItemRevChild uid="UeKACyLPVdWWHBAAAAAAAAAAAAA" rev_id="C" name="INTAKE,AIR,MWB-MOD" item_id="660484" qty="1" action="Added"/>
+
+<ItemRevChild uid="UzOAC18fVdWWHBAAAAAAAAAAAAA" rev_id="B" name="SUPPORT,FRT END,TXT,W/ LOOP-MOD" item_id="662821" qty="1" action="Added"/>
+
+<ItemRevChild uid="UWMAh$6XVdWWHBAAAAAAAAAAAAA" rev_id="-" name="KEYSWITCH SET, UNIQUE, GAS-MOD" item_id="652577G04" qty="1" action="Added"/>
+
+<ItemRevChild uid="RjNAitqOVdWWHBAAAAAAAAAAAAA" rev_id="02" name="RECEIVER, HITCH W/O BALL" item_id="74270G11" qty="1" action="Added"/>
+
+<ItemRevChild uid="FsNAy4OwVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SEAT FRAME,SWB/MWB,EFI-MOD" item_id="660293" qty="1" action="Added"/>
+
+<ItemRevChild uid="U4KACFmJVdWWHBAAAAAAAAAAAAA" rev_id="B" name="HEADLIGHT, STD-MOD" item_id="651497G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="lLNAyVVbVdWWHBAAAAAAAAAAAAA" rev_id="C" name="FRAME,MWB,GAS,E/COAT & P/COAT-WLDMNT" item_id="651203G03" qty="1" action="Added"/>
+
+<ItemRevChild uid="UEEAyMiJVdWWHBAAAAAAAAAAAAA" rev_id="B" name="FLOORPAN,W/O RIBS-MOD" item_id="665024G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="TYEAy0l7VdWWHBAAAAAAAAAAAAA" rev_id="A" name="PLATE,ELEC,EFI-MOD" item_id="660977" qty="1" action="Added"/>
+
+<ItemRevChild uid="VdIAyI0AVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SEAT WRAP,GAS,FNR-MOD" item_id="650794G08" qty="1" action="Added"/>
+
+<ItemRevChild uid="9RLAxnrTVdWWHBAAAAAAAAAAAAA" rev_id="A" name="COWL,[COLOR],MOD" item_id="651540G00XX" qty="1" action="Added"/>
+
+<ItemRevChild uid="QvAASWZUVdWWHBAAAAAAAAAAAAA" rev_id="A" name="FUEL,EFI,MWB,W/ SDR,TRKR-MOD" item_id="699999" qty="1" action="Added"/>
+
+<ItemRevChild uid="jfKASWmBVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,OX 400-MOD" item_id="699798" qty="1" action="Added"/>
+
+<ItemRevChild uid="FSDAy4OwVdWWHBAAAAAAAAAAAAA" rev_id="A" name="PEDAL,ACCELERATOR,GAS,MWB,EFI-MOD" item_id="660442" qty="1" action="Added"/>
+
+<ItemRevChild uid="idOAyVz_VdWWHBAAAAAAAAAAAAA" rev_id="02" name="SUSPENSION,HIGH,PLATE SHACKLE,450 SR" item_id="655248" qty="1" action="Added"/>
+
+<ItemRevChild uid="hbJACFASVdWWHBAAAAAAAAAAAAA" rev_id="E" name="FNR, MPT 1200-MOD" item_id="606842" qty="1" action="Added"/>
+
+<ItemRevChild uid="LUOASS_tVdWWHBAAAAAAAAAAAAA" rev_id="A" name="FRAME,CANOPY-MOD" item_id="699710" qty="1" action="Added"/>
+
+<ItemRevChild uid="LMBASS_tVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SEAT,ASSY-MOD" item_id="699709" qty="1" action="Added"/>
+
+<ItemRevChild uid="LICASS_tVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BRUSHGUARD-MOD" item_id="699711" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="CYKASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A,TRACKER,OX 400 G-EFI,ROUTE A" item_id="698594RA" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>FA004</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemRevChild uid="UGCASWKXVdWWHBAAAAAAAAAAAAA" rev_id="A" name="WINCH,2500,VRX,MWB-KIT" item_id="699888" qty="1" action="Added"/>
+
+<ItemRevChild uid="k2GASW6DVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SPLIT WINDSHIELD,KIT" item_id="699872" qty="1" action="Added"/>
+
+<ItemRevChild uid="kyGASWNdVdWWHBAAAAAAAAAAAAA" rev_id="A" name="WINDSHIELD,FLAT-KIT" item_id="600020" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="CgNASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A,TRACKER,OX 400 G-EFI,ROUTE O" item_id="698594RO" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>FA004</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+</ItemRev>
+
+
+-<ItemRev uid="CsAASGtcVdWWHBAAAAAAAAAAAAA" rev_id="A" name="F/A,TRACKER,OX 400 G-EFI,ROUTE V" item_id="698594RV" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>FA004</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+</ItemRev>
+
+
+-<ItemRev uid="CWFASWWQVdWWHBAAAAAAAAAAAAA" rev_id="A" name="CHART- DECAL,COWL,OX 400" item_id="699787" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart">
+
+<ItemRevChild uid="iCFASWWQVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,COWL,OX 400-RH" item_id="699787G02" qty="1" action="Added"/>
+
+<ItemRevChild uid="S6CASWWQVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,COWL,OX 400-LH" item_id="699787G01" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="S6CASWWQVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,COWL,OX 400-LH" item_id="699787G01" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware/Decals</Commodity>
+
+</Plant>
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware/Decals</Commodity>
+
+</Plant>
+
+<ItemChild uid="CSNASWWQVdWWHBAAAAAAAAAAAAA" name="CHART- DECAL,COWL,OX 400" item_id="699787" comments="ON CHART DWG" type="Chart"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="iCFASWWQVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,COWL,OX 400-RH" item_id="699787G02" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware/Decals</Commodity>
+
+</Plant>
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware/Decals</Commodity>
+
+</Plant>
+
+<ItemChild uid="CSNASWWQVdWWHBAAAAAAAAAAAAA" name="CHART- DECAL,COWL,OX 400" item_id="699787" comments="ON CHART DWG" type="Chart"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="LXIASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHL,23X10-12,D.EAGLE,STL,RH-ASSY" item_id="699796" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>TR001</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>TR001</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemRevChild uid="ixOAwF5YVdWWHBAAAAAAAAAAAAA" rev_id="-" name="WHEEL,STEEL,12X7" item_id="631041" qty="1" action="Added"/>
+
+<ItemRevChild uid="WcOACNPJVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE,DESERT EAGLE,23X10-12,2018+" item_id="653602K01" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="8UNASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHL,23X10-12,D.EAGLE,STL,LH-ASSY" item_id="699797" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>TR001</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>TR001</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemRevChild uid="ixOAwF5YVdWWHBAAAAAAAAAAAAA" rev_id="-" name="WHEEL,STEEL,12X7" item_id="631041" qty="1" action="Added"/>
+
+<ItemRevChild uid="WcOACNPJVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE,DESERT EAGLE,23X10-12,2018+" item_id="653602K01" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="jfKASWmBVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,OX 400-MOD" item_id="699798" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware/Decals</Commodity>
+
+</Plant>
+
+<ItemRevChild uid="kPBAyBNbVdWWHBAAAAAAAAAAAAA" rev_id="B" name="DECAL,MADE IN USA" item_id="685698" qty="1" action="Added"/>
+
+<ItemRevChild uid="xfPACaC$VdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,SEAT WRAP,3P PRWLR EV,BLACK,RH" item_id="692808G211" qty="1" action="Added"/>
+
+<ItemRevChild uid="RrPACaC$VdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,SEAT WRAP,3P PRWLR EV,BLACK,LH" item_id="692808G111" qty="1" action="Added"/>
+
+<ItemRevChild uid="xoJAC_7HVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,STEERING WHEEL,TRACKER" item_id="695284" qty="1" action="Added"/>
+
+<ItemRevChild uid="S6CASWWQVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,COWL,OX 400-LH" item_id="699787G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="iCFASWWQVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL,COWL,OX 400-RH" item_id="699787G02" qty="1" action="Added"/>
+
+<ItemRevChild uid="RnJAxnIJVdWWHBAAAAAAAAAAAAA" rev_id="-" name="DECAL, PINCH WARNING" item_id="651671" qty="2" action="Added"/>
+
+<ItemRevChild uid="QzHACFSYVdWWHBAAAAAAAAAAAAA" rev_id="K" name="LABEL,BED LOAD,PLASTIC BED,500LB" item_id="74821G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="kPHASWmBVdWWHBAAAAAAAAAAAAA" rev_id="A" name="LABEL,OP INSTRUCTIONS" item_id="699801" qty="1" action="Added"/>
+
+<ItemRevChild uid="DAAAw26BVdWWHBAAAAAAAAAAAAA" rev_id="B" name="RIVET, 3/16 DIA" item_id="71055G01" qty="4" action="Added"/>
+
+<ItemRevChild uid="VvEBPkX0VdWWHBAAAAAAAAAAAAA" rev_id="-" name="DECAL, WARNING BED LATCH" item_id="74099G01" qty="2" action="Added"/>
+
+<ItemRevChild uid="n1GABg_eVdWWHBAAAAAAAAAAAAA" rev_id="A" name="DECAL - WARNING, ENGINE" item_id="74093G01" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="kPHASWmBVdWWHBAAAAAAAAAAAAA" rev_id="A" name="LABEL,OP INSTRUCTIONS" item_id="699801" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware/Decals</Commodity>
+
+</Plant>
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Hardware/Decals</Commodity>
+
+</Plant>
+
+</ItemRev>
+
+
+-<ItemRev uid="siIASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHEEL,TRACKER-MOD" item_id="699802" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemRevChild uid="LXIASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHL,23X10-12,D.EAGLE,STL,RH-ASSY" item_id="699796" qty="1" action="Added"/>
+
+<ItemRevChild uid="LXIASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHL,23X10-12,D.EAGLE,STL,RH-ASSY" item_id="699796" qty="1" action="Added"/>
+
+<ItemRevChild uid="8UNASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHL,23X10-12,D.EAGLE,STL,LH-ASSY" item_id="699797" qty="1" action="Added"/>
+
+<ItemRevChild uid="8UNASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TIRE/WHL,23X10-12,D.EAGLE,STL,LH-ASSY" item_id="699797" qty="1" action="Added"/>
+
+<ItemRevChild uid="E9GAg1TNVdWWHBAAAAAAAAAAAAA" rev_id="-" name="FLT BLK CENTER CAP" item_id="630268" qty="4" action="Added"/>
+
+<ItemRevChild uid="R9NAiV$5VdWWHBAAAAAAAAAAAAA" rev_id="E" name="NUT - LUG" item_id="14723G1" qty="16" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="taMASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TAILGATE, PLASTIC BED 40",W/O BRAND" item_id="699804" is_tc_only="false" is_srv_only="true" comments="">
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>MG057</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+</ItemRev>
+
+
+-<ItemRev uid="9DNASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BED, PLASTIC 40",W/O BRAND-ASSY" item_id="699808" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>MG057</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>F</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>MG057</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemRevChild uid="TiDASYXEVdWWHBAAAAAAAAAAAAA" rev_id="B" name="BED, PLASTIC 40"" item_id="649871" qty="1" action="Added"/>
+
+<ItemRevChild uid="taMASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TAILGATE, PLASTIC BED 40",W/O BRAND" item_id="699804" qty="1" action="Added"/>
+
+<ItemRevChild uid="VOFAioAIVdWWHBAAAAAAAAAAAAA" rev_id="-" name="LATCH TAILGATE-ASSY" item_id="663143" qty="2" action="Added"/>
+
+<ItemRevChild uid="z1HAikf$VdWWHBAAAAAAAAAAAAA" rev_id="05" name="BRACKET,TAILGATE LATCH" item_id="651110" qty="2" action="Added"/>
+
+<ItemRevChild uid="ITOAiktTVdWWHBAAAAAAAAAAAAA" rev_id="04" name="PIN,PIVOT-WLD" item_id="651109" qty="2" action="Added"/>
+
+<ItemRevChild uid="m3CABHfjVdWWHBAAAAAAAAAAAAA" rev_id="-" name="ASSY-CABLE,TAILGATE,MID" item_id="651635" qty="2" action="Added"/>
+
+<ItemRevChild uid="S6PAS4ibVdWWHBAAAAAAAAAAAAA" rev_id="B" name="EXTRUSION,UPPER STIFFENER" item_id="651107" qty="1" action="Added"/>
+
+<ItemRevChild uid="TkMASQjZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="EXTRUSION,LOWER STIFFENER" item_id="651108" qty="1" action="Added"/>
+
+<ItemRevChild uid="1aLAyEEuVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SCREW - 1/4-20 X 5/8-PANHD" item_id="663506" qty="18" action="Added"/>
+
+<ItemRevChild uid="F3PAyEEuVdWWHBAAAAAAAAAAAAA" rev_id="A" name="NUT-LK 1/4-20 JS500" item_id="663527" qty="4" action="Added"/>
+
+<ItemRevChild uid="AZDB8yFQVdWWHBAAAAAAAAAAAAA" rev_id="-" name="BOLT, SHOULDER" item_id="73460G01" qty="4" action="Added"/>
+
+<ItemRevChild uid="lTGAyEEuVdWWHBAAAAAAAAAAAAA" rev_id="A" name="SCREW - 1/4-20 X 3-PANHD" item_id="663718" qty="4" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="_OOASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BED,W/O BRAND,MANUAL LIFT W/FRAME-ASSY" item_id="699810" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>MG057</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="izEAx_G_VdWWHBAAAAAAAAAAAAA" name="CHART-BED,PLASTIC,LIFT-ASSY" item_id="651707" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="ARPB8CoRVdWWHBAAAAAAAAAAAAA" rev_id="E" name="COTTER PIN" item_id="21683G1" qty="4" action="Added"/>
+
+<ItemRevChild uid="m$DACBWaVdWWHBAAAAAAAAAAAAA" rev_id="01" name="PIN-CLEVIS .50 X 2.22" item_id="14443G12" qty="1" action="Added"/>
+
+<ItemRevChild uid="SBHAwx89VdWWHBAAAAAAAAAAAAA" rev_id="D" name="BUSHING,FLANGE,IGUS" item_id="624030" qty="4" action="Added"/>
+
+<ItemRevChild uid="9DNASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BED, PLASTIC 40",W/O BRAND-ASSY" item_id="699808" qty="1" action="Added"/>
+
+<ItemRevChild uid="WXBAQeC1VdWWHBAAAAAAAAAAAAA" rev_id="A" name="PIN, CLEVIS" item_id="71571G01" qty="2" action="Added"/>
+
+<ItemRevChild uid="AZDB8KqAVdWWHBAAAAAAAAAAAAA" rev_id="-" name="BUSHING, ACETAL" item_id="71570G01" qty="2" action="Added"/>
+
+<ItemRevChild uid="CuNAQ2HLVdWWHBAAAAAAAAAAAAA" rev_id="G" name="WASHER-FLAT-TYPE A (WIDE-PLATED)" item_id="00571G5" qty="2" action="Added"/>
+
+<ItemRevChild uid="0SMAQeC1VdWWHBAAAAAAAAAAAAA" rev_id="K" name="PIN,CLEVIS .50 X 3.00" item_id="14443G10" qty="1" action="Added"/>
+
+<ItemRevChild uid="AZCBsW3jVdWWHBAAAAAAAAAAAAA" rev_id="-" name="SCREW-CAP-HEX-1/4 - 20 W/PATCHLO" item_id="01118G01" qty="6" action="Added"/>
+
+<ItemRevChild uid="ExGAQ2W4VdWWHBAAAAAAAAAAAAA" rev_id="D" name="WASHER-FLAT-TYPE B(#4 TO 5/16) R" item_id="00642G7" qty="6" action="Added"/>
+
+<ItemRevChild uid="1pKAxjzlVdWWHBAAAAAAAAAAAAA" rev_id="-" name="GAS SPRING,PLASTIC BED" item_id="71537G02-GEOREP2" qty="1" action="Added"/>
+
+<ItemRevChild uid="xFLAAc7NVdWWHBAAAAAAAAAAAAA" rev_id="D" name="CHANNEL,GAS SPRING" item_id="71569G02" qty="1" action="Added"/>
+
+<ItemRevChild uid="13AAxjzlVdWWHBAAAAAAAAAAAAA" rev_id="-" name="CABLE ASSEMBLY, BED TETHER" item_id="602904-GEOREP3" qty="1" action="Added"/>
+
+<ItemRevChild uid="wKLAg9oAVdWWHBAAAAAAAAAAAAA" rev_id="A" name="PLUG,PANEL,CARLING SWITCH" item_id="627035" qty="1" action="Added"/>
+
+<ItemRevChild uid="5IHASowOVdWWHBAAAAAAAAAAAAA" rev_id="A" name="PLATE,BED,LATCH" item_id="658171" qty="1" action="Added"/>
+
+<ItemRevChild uid="DAAAw26BVdWWHBAAAAAAAAAAAAA" rev_id="B" name="RIVET, 3/16 DIA" item_id="71055G01" qty="2" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="mRFASWmBVdWWHBAAAAAAAAAAAAA" rev_id="A" name="OG,TRACKER,OX 400" item_id="699814" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>Printed Inhouse</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TSVW</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Service/Aftermarket Parts</Commodity>
+
+</Plant>
+
+
+-<Plant isService="true" isObs="false" id="6001">
+
+<PlantSetup>6001</PlantSetup>
+
+<ProcType>Printed Inhouse</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>PACC</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Service/Aftermarket Parts</Commodity>
+
+</Plant>
+
+</ItemRev>
+
+
+-<ItemRev uid="VbKASWXvVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BED,PLASTIC,W/O BRAND,MANUAL-MOD" item_id="699837" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="j1EAhjD$VdWWHBAAAAAAAAAAAAA" name="CHART-BED,PLASTIC-MOD" item_id="653368" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="_OOASW0ZVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BED,W/O BRAND,MANUAL LIFT W/FRAME-ASSY" item_id="699810" qty="1" action="Added"/>
+
+<ItemRevChild uid="Q2DAC8AzVdWWHBAAAAAAAAAAAAA" rev_id="A" name="BED,PLASTIC,MANUAL LIFT,LATCH-ASSY" item_id="651708" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="RfAASWJGVdWWHBAAAAAAAAAAAAA" rev_id="A" name="LIT,TRACKER OX 400,KEFI-MOD" item_id="699852" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemRevChild uid="lZOB_7LsVdWWHBAAAAAAAAAAAAA" rev_id="A" name="CLAMP - NYLON" item_id="31539G1" qty="1" action="Added"/>
+
+<ItemRevChild uid="19BACmJJVdWWHBAAAAAAAAAAAAA" rev_id="A" name="STMNT,WRNTY,EVAP EMISSIONS,TRACKER" item_id="695288GXX" qty="1" action="Added"/>
+
+<ItemRevChild uid="HdNACaadVdWWHBAAAAAAAAAAAAA" rev_id="A" name="STMNT,WRNTY,TRACKER" item_id="695072GXX" qty="1" action="Added"/>
+
+<ItemRevChild uid="mIEAywqvVdWWHBAAAAAAAAAAAAA" rev_id="A" name="STMNT,WRNTY,WALBRO EMISSIONS" item_id="666466GXX" qty="1" action="Added"/>
+
+<ItemRevChild uid="mRFASWmBVdWWHBAAAAAAAAAAAAA" rev_id="A" name="OG,TRACKER,OX 400" item_id="699814" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="QvAASWZUVdWWHBAAAAAAAAAAAAA" rev_id="A" name="FUEL,EFI,MWB,W/ SDR,TRKR-MOD" item_id="699999" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>E50</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>TRK1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+<ItemChild uid="MjHASs4yVdWWHBAAAAAAAAAAAAA" name="CHART-FUEL,EFI,MWB-MOD" item_id="660470" comments="ON CHART DWG" type="Chart"/>
+
+<ItemRevChild uid="DcEACNRmVdWWHBAAAAAAAAAAAAA" rev_id="A" name="TANK,MWB,EFI,W/ SDR-YEL-ASSY" item_id="659100" qty="1" action="Added"/>
+
+<ItemRevChild uid="VSLACQ_5VdWWHBAAAAAAAAAAAAA" rev_id="A" name="BRACKET,UPPER GAS TANK" item_id="650268" qty="1" action="Added"/>
+
+<ItemRevChild uid="xQNAicTEVdWWHBAAAAAAAAAAAAA" rev_id="B" name="BRACKET, LOWER GAS TANK" item_id="650275" qty="1" action="Added"/>
+
+<ItemRevChild uid="SNCAAe9qVdWWHBAAAAAAAAAAAAA" rev_id="E" name="TRIM, VINYL - 6.25"" item_id="32372G6" qty="1" action="Added"/>
+
+<ItemRevChild uid="huFACWO4VdWWHBAAAAAAAAAAAAA" rev_id="B" name="HOSE,FUEL,FORMED,KEFI,STD-ASSY" item_id="666351" qty="1" action="Added"/>
+
+<ItemRevChild uid="AVHB8_SXVdWWHBAAAAAAAAAAAAA" rev_id="-" name="GASOLINE - REGULAR UNLEADED WITH" item_id="27602G01" qty="0" action="Added"/>
+
+<ItemRevChild uid="V5FACWmGVdWWHBAAAAAAAAAAAAA" rev_id="B" name="CARBON CANISTER,ORN-ASSY" item_id="667869" qty="1" action="Added"/>
+
+<ItemRevChild uid="DcBACR29VdWWHBAAAAAAAAAAAAA" rev_id="A" name="CLAMP,TUBE,CUSHION,0.5"" item_id="664747" qty="2" action="Added"/>
+
+<ItemRevChild uid="V5GVXNgcVdWWHBAAAAAAAAAAAAA" rev_id="-" name="BOLT,HXFL,M6-1X20" item_id="606264" qty="2" action="Added"/>
+
+<ItemRevChild uid="AZDBMfN8VdWWHBAAAAAAAAAAAAA" rev_id="E" name="MACHINE SCREW, TRUSS HEAD TORX 3" item_id="70200G01" qty="1" action="Added"/>
+
+<ItemRevChild uid="K9HFkjsQVdWWHBAAAAAAAAAAAAA" rev_id="K" name="SCREW, CAP HEX HEAD 1/4-20 UNC-2" item_id="00414G7" qty="3" action="Added"/>
+
+<ItemRevChild uid="0rEAQ2W4VdWWHBAAAAAAAAAAAAA" rev_id="A" name="WASHER, FLAT" item_id="01110G01" qty="2" action="Added"/>
+
+<ItemRevChild uid="osIAASmoVdWWHBAAAAAAAAAAAAA" rev_id="P" name="NUT-LK PLAS INS 1/4-20 UNC-2B" item_id="14390G4" qty="3" action="Added"/>
+
+<ItemRevChild uid="2IFAw26BVdWWHBAAAAAAAAAAAAA" rev_id="P" name="RIVET,3/16,DOMED, BREAK" item_id="10570G11" qty="2" action="Added"/>
+
+<ItemRevChild uid="B2CAQFF9VdWWHBAAAAAAAAAAAAA" rev_id="B" name="WELDMENT-BRKT CHARCOAL CANISTER" item_id="606310" qty="1" action="Added"/>
+
+<ItemRevChild uid="J0PASSZBVdWWHBAAAAAAAAAAAAA" rev_id="A" name="LABEL,EVAP,2019 CC8,EFI 50 STATE,TRACKER" item_id="695065G19" qty="1" action="Added"/>
+
+</ItemRev>
+
+</Add>
+
+
+-<Change>
+
+
+-<ItemRev uid="EdOASW1pVdWWHBAAAAAAAAAAAAA" rev_id="P" name="HOLE PLUG" item_id="20271GXX" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart">
+
+<ItemRevChild uid="zLFASW1pVdWWHBAAAAAAAAAAAAA" rev_id="A" name="HOLE PLUG,1.187" item_id="20271G12" qty="1" action="Added"/>
+
+</ItemRev>
+
+<ItemRev uid="gcPASWWfVdWWHBAAAAAAAAAAAAA" rev_id="B" name="CHART-BED,PLASTIC,LIFT-ASSY" item_id="651707" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart"/>
+
+<ItemRev uid="UxBASWIdVdWWHBAAAAAAAAAAAAA" rev_id="A" name="CHART-BED,PLASTIC-MOD" item_id="653368" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart"/>
+
+
+-<ItemRev uid="k$EASW4rVdWWHBAAAAAAAAAAAAA" rev_id="E" name="CHART-FUEL,EFI,MWB-MOD" item_id="660470" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart">
+
+<ItemRevChild uid="QvAASWZUVdWWHBAAAAAAAAAAAAA" rev_id="A" name="FUEL,EFI,MWB,W/ SDR,TRKR-MOD" item_id="699999" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="AMBASWZUVdWWHBAAAAAAAAAAAAA" rev_id="C" name="CHART-GAUGE PLATE-ASSY" item_id="666085" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart">
+
+<ItemRevChild uid="fzIASWIgVdWWHBAAAAAAAAAAAAA" rev_id="A" name="GAUGE PLATE,12V,WINCH READY-ASSY" item_id="666085G11" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="PJPASWIgVdWWHBAAAAAAAAAAAAA" rev_id="C" name="CHART-GAUGE PLATE-MOD" item_id="666267" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart">
+
+<ItemRevChild uid="PDBASWIgVdWWHBAAAAAAAAAAAAA" rev_id="A" name="GAUGE PLATE,12V,WINCH READY-MOD" item_id="666267G11" qty="1" action="Added"/>
+
+</ItemRev>
+
+
+-<ItemRev uid="zfFASWOiVdWWHBAAAAAAAAAAAAA" rev_id="D" name="STMNT,WRNTY 2020,TRACKER" item_id="695072G20" is_tc_only="false" is_srv_only="false" comments="">
+
+
+-<Plant isService="false" isObs="false" id="6000">
+
+<PlantSetup>6000</PlantSetup>
+
+<ProcType>Printed Inhouse</ProcType>
+
+<ItemCategory>NORM</ItemCategory>
+
+<ItemSequence>CWH1</ItemSequence>
+
+<LineSequence>MG086</LineSequence>
+
+<UOM>EA</UOM>
+
+<Commodity>Mechanical</Commodity>
+
+</Plant>
+
+</ItemRev>
+
+</Change>
+
+
+-<Obsolete>
+
+<ItemRev uid="0MEACqrrVdWWHBAAAAAAAAAAAAA" rev_id="B" name="CHART-STEERING,COLUMN-MOD" item_id="653027" is_tc_only="true" is_srv_only="false" comments="" tc_type="Chart"/>
+
+</Obsolete>
+
+
+-<Error>
+
+<ErrorItem rev_id="-" item_id="649803" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="660397" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="635246G165" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="652577G04" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="02" item_id="74270G11" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="02" item_id="655248" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="631041" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="631041" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="651671" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="74099G01" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="630268" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="663143" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="05" item_id="651110" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="04" item_id="651109" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="651635" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="73460G01" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="01" item_id="14443G12" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="71570G01" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="01118G01" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="71537G02-GEOREP2" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="602904-GEOREP3" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="27602G01" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="-" item_id="606264" error_no="919501" error_msg="New part in Solution item folder revision letter is not allowed for production release"/>
+
+<ErrorItem rev_id="B" item_id="653027" error_no="919503" error_msg="Oboslete/Service part in Impacted item, TSV Part Type: property needs to fill with Obsolete"/>
+
+</Error>
+
+</ChangeSum>
