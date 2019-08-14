@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 .mypy_cache/
+=======
+/__pycache__
+/routes_and_structures_excel
+/routes_and_structures_txt
+/routes_and_structures_xml
+>>>>>>> 24a4d491e244388a9527d53dfaac52271d2e20d8
