@@ -6,22 +6,10 @@ import os
 import pprint
 from glob import glob
 from xml_preprocessing import Preprocess_xml
+import time
 
-#%%
-## USED FOR NON-ITERATIVE TESTS *************************
-
-# DATA_LOCATION = r'/Users/devodriqroberts/Desktop/Software-Development/python/xml_parsing/xml'
-# DATA_LOCATION = r'\\txt.textron.com\tsv\Projects\Current Projects\100066 Misc-Advanced Concepts\Text_File_Processing_Scripts\sap_auto_part_entry_erin_amerson_move_this' 
-# FILE = 'xml_sample_entry.xml'
-# FILE2 = 'xml_sample_entry2.xml'
-# FILE3 = 'xml_sample_entry3.xml'
-
-# xml_file = os.path.join(os.path.join(DATA_LOCATION, FILE3))
-
-# xtree = et.parse(xml_file)
-# xroot = xtree.getroot()
-
-## USED FOR NON-ITERATIVE TESTS *************************
+# Define folder path use to store R&S data files.
+FOLDER_PATH = 'routes_and_structures_txt'
 
 #%%
 def base(item, i):
@@ -118,6 +106,9 @@ def parse_change_tag(change_tag, item_dict, root):
 
 #%%
 def parse_xml_routes_structure(root):
+    '''
+    Parses xml root and returns R&S dictionary of change types.
+    '''
     
     # Loops through xml tree for change type tags.
     for change_type in root:
@@ -141,9 +132,6 @@ def parse_xml_routes_structure(root):
 
                 # Loops to find all 'ItemRev' (item tags) and enumerates.
                 for i, item_rev in enumerate(item.findall('ItemRev')):
-
-                    # Initialize empty dictionary for revised child items.
-                    # rev_change_child_items = {}
 
                     # Adds item base attributes dict to add_items dict 
                     # with enumerated key 'i.
@@ -193,19 +181,15 @@ def loop_xml_files(folder_path):
             
             # TODO: Automation SAP script
 
-            print(len(parse_xml_routes_structure(xroot)['Add']))
-            for i in range(len(parse_xml_routes_structure(xroot)['Add'])):
 
-                print(parse_xml_routes_structure(xroot)['Add'][i].keys())
-
-            pprint.pprint(parse_xml_routes_structure(xroot)['Add'])
+            pprint.pprint(parse_xml_routes_structure(xroot))
             print()
             print('#'*10)
             print()
 
     
     if 'excel' in folder_path:
-        file_path = os.path.join(folder_path, '*.xlsx').strip()
+        file_path = os.path.join(folder_path, '*.xlsx')
         for xml_file in glob(file_path):
             
             xtree = et.parse(file_path)
@@ -213,24 +197,16 @@ def loop_xml_files(folder_path):
             
             # TODO: Automation SAP script
 
-            # print(type(parse_xml_routes_structure(xroot)))
             pprint.pprint(parse_xml_routes_structure(xroot))
             print()
             print('#'*10)
             print()
 
 #%%
-# path = '/Users/devodriqroberts/Desktop/Software-Development/python/xml_parsing/xml_txt/*.txt'
-folder_path = 'routes_and_structures_xml'
-loop_xml_files(folder_path)
+
+if __name__ == "__main__":
+    loop_xml_files(FOLDER_PATH)
 
 
-#%%
-# xmlstr = et.tostring(xroot, encoding='utf8', method='xml')
-# print(xmlstr)
-
-# xml_from_str = et.fromstring(xmlstr)
-# print(xml_from_str)
-# print(xroot)
 
     
